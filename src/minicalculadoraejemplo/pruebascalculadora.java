@@ -12,7 +12,15 @@ package minicalculadoraejemplo;
  */
 public class pruebascalculadora {
 
-   
+   //Soy Pablo Moreno, trabajando desde mi equipo con mi NetBeans.
+   //Toni ha hecho una calculadora, pero no ha hecho una suma en su vida, Hulio
+    //seguimos probando a ver si le llega a este muchacho el archivo modificado
+    //fadsñfladfja
+    
+    //nueva prueba
+    
+    //no eres tonto, toni
+    
     public static void main(String[] args) {
         
         Minicalculadoraejemplo mc1=new Minicalculadoraejemplo();
