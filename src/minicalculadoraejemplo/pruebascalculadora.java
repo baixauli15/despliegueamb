@@ -21,6 +21,8 @@ public class pruebascalculadora {
     
     //no eres tonto, toni
     
+    //esta linea la he añadido tras descargar el proyecto modificado por pablo
+    
     public static void main(String[] args) {
         
         Minicalculadoraejemplo mc1=new Minicalculadoraejemplo();
